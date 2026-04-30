@@ -81,5 +81,5 @@ Busco evoluir na área de **infraestrutura, servidores e desenvolvimento**, cons
 
 Se você também gosta de tecnologia, servidores, automação ou projetos self-hosted, vamos trocar ideias!
 
-💼 [LinkedIn](https://www.linkedin.com/in/alinorb/)
+💼 [LinkedIn](https://www.linkedin.com/in/alinorbjr/)
 📧 [E-mail](alinorbornhofenjr@gmail.com)
